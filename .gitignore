@@ -1,0 +1,10 @@
+.DS_Store
+*~
+*.bak
+*.swp
+
+# Local Jekyll/GitHub Pages build products
+_site/
+.jekyll-cache/
+.sass-cache/
+
