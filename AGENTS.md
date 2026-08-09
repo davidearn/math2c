@@ -58,6 +58,11 @@ copies here. If a public file is generated, modify its source instead.
 - Use Canadian spelling in prose.
 - Avoid spaces in new filenames and directories.
 - Preserve unrelated user changes.
+- Treat documentation as part of every state change. When repositories, files,
+  dependencies, workflows, or publication state change, immediately search
+  README files, AGENTS.md files, source comments, and build configuration for
+  stale references and update them in the same task. Perform a final
+  stale-reference search before reporting completion.
 - Build the site and check links after meaningful changes.
 - Visually inspect changed pages and layout-sensitive documents.
 - Do not add prompt/response logging or automatic commits.
