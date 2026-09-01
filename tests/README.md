@@ -17,8 +17,8 @@ up to and including the class immediately before its testing period begins.
 
 Each test is designed as a one-hour assessment, with a two-hour writing block
 available to all students. Calculators are not permitted. Students may not
-bring a formula sheet; the instructor may provide information with a test when
-appropriate.
+bring a formula sheet. If a formula sheet or other resources are appropriate
+for a test, they will be provided with the test by the instructor.
 
 | Test | Testing period | Status | Planned format |
 |---:|:---|:---|:---|
