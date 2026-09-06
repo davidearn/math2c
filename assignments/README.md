@@ -17,9 +17,9 @@ precedence if there is any discrepancy.
 
 | Assignment | Tentative due date | Status |
 |---:|:---|:---|
-| 1 | Tuesday, 22 September 2026 at 11:59 p.m. | Tentative |
-| 2 | Friday, 2 October 2026 at 11:59 p.m. | Tentative |
-| 3 | Tuesday, 27 October 2026 at 11:59 p.m. | Tentative |
-| 4 | Tuesday, 10 November 2026 at 11:59 p.m. | Tentative |
-| 5 | Tuesday, 24 November 2026 at 11:59 p.m. | Tentative |
-| 6 | Thursday, 10 December 2026 at 11:59 p.m. | Tentative |
+| 1 | Thursday, 24 September 2026 at 11:59 p.m. | Tentative |
+| 2 | Thursday, 8 October 2026 at 11:59 p.m. | Tentative |
+| 3 | Thursday, 22 October 2026 at 11:59 p.m. | Tentative |
+| 4 | Thursday, 5 November 2026 at 11:59 p.m. | Tentative |
+| 5 | Thursday, 19 November 2026 at 11:59 p.m. | Tentative |
+| 6 | Thursday, 3 December 2026 at 11:59 p.m. | Tentative |
