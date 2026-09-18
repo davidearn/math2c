@@ -8,6 +8,11 @@ available writing time within the testing period and bring a device that can
 connect to childsmath. Detailed booking, location, device, and contingency
 instructions will be announced before the test.
 
+Read McMaster's [Flexible Testing: Student Sign-Up & Testing
+Guide](Flexible_Testing_Student_Sign-Up_and_Testing_Guide.pdf) for instructions
+on choosing or changing a testing time, preparing your device, checking in,
+submitting your test, and using approved accommodations.
+
 The plan is to use the Flexible Testing scheme for Test 2 as well, unless
 significant administrative problems with Test 1 make that impractical. Any
 change to the Test 2 format will be announced well in advance.
