@@ -12,6 +12,7 @@ Mathematics 2C03 at McMaster University
 - **Instructor:** [David Earn](https://davidearn.mcmaster.ca/)
 - [Course syllabus, fall 2026](https://mcmaster.simplesyllabusca.com/en-US/doc/ugyvtxsi1/Fall-2026-MATH-2C03-C01-EARN-Introduction-to-Differential-Equations)
 - [Lecture slides](lectures/)
+- [Past class polls](polls/)
 - [Assignments](assignments/)
 - [Tests](tests/)
 - For lecture and tutorial times and locations, please refer to [MOSAIC](https://mosaic.mcmaster.ca/).
