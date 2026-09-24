@@ -9,6 +9,10 @@ immediately public.
 The canonical website authoring source is in `../repoprivate/site/`. Approved
 site files and selected student-facing documents will be published here using
 an explicit allowlist. Do not copy the private repository wholesale.
+When an already-posted lecture is revised, the instructor wants the current
+handout republished promptly for class. This is a separate, verified
+publication step, not an automatic side effect of building its source. Do not
+release an unposted draft without approval or push on the instructor's behalf.
 
 The site should build from the default `main` branch. Do not create a nested
 clone or a separate local `gh-pages` working tree.
