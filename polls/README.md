@@ -2,9 +2,12 @@
 
 # Past class polls
 
-These polls have already been used in class. You can revisit the questions and reveal the answers below. To receive participation credit, respond to polls during class on Childsmath; this page is for review only.
+These polls have already been used in class. Open a question, then reveal its answer when ready. To receive participation credit, respond to polls during class on Childsmath; this page is for review only.
 
-## Identify the instructor
+## Poll 1: Identify the instructor
+
+<details markdown="1">
+<summary>Show question</summary>
 
 Who is the instructor for section C01 of Math 2C03?
 
@@ -16,14 +19,19 @@ Choose one:
 4. David Earn
 5. Taylor Swift
 
+</details>
+
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Answer:** David Earn.
+**Answer:** Choice 4: David Earn.
 
 </details>
 
-## Understanding linear ODEs
+## Poll 2: Understanding linear ODEs
+
+<details markdown="1">
+<summary>Show question</summary>
 
 I understand the concept of a linear ODE.
 
@@ -34,6 +42,8 @@ Choose one:
 3. somewhat
 4. not at all
 
+</details>
+
 <details markdown="1">
 <summary>Show answer</summary>
 
@@ -41,9 +51,10 @@ Choose one:
 
 </details>
 
-## Existence and uniqueness
+## Poll 3: Existence and uniqueness
 
-### Question 1
+<details markdown="1">
+<summary>Show question 1</summary>
 
 Consider the Initial Value Problem (IVP):
 
@@ -61,14 +72,17 @@ Choose one:
 3. maybe
 4. not sure
 
-<details markdown="1">
-<summary>Show answer</summary>
+</details>
 
-**Answer:** yes.
+<details markdown="1">
+<summary>Show answer 1</summary>
+
+**Answer:** Choice 1: yes.
 
 </details>
 
-### Question 2
+<details markdown="1">
+<summary>Show question 2</summary>
 
 Consider the Initial Value Problem (IVP):
 
@@ -86,14 +100,19 @@ Choose one:
 3. maybe
 4. not sure
 
-<details markdown="1">
-<summary>Show answer</summary>
+</details>
 
-**Answer:** no.
+<details markdown="1">
+<summary>Show answer 2</summary>
+
+**Answer:** Choice 2: no.
 
 </details>
 
-## Slope of a lineal element
+## Poll 4: Slope of a lineal element
+
+<details markdown="1">
+<summary>Show question</summary>
 
 For the differential equation
 
@@ -111,14 +130,19 @@ Choose one:
 4. $5$
 5. There is not enough information to determine the slope.
 
+</details>
+
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Answer:** $0.6$.
+**Answer:** Choice 2: $0.6$.
 
 </details>
 
-## Equilibria of $dy/dx=\sin(y)$
+## Poll 5: Equilibria of $dy/dx=\sin(y)$
+
+<details markdown="1">
+<summary>Show question</summary>
 
 What are the equilibria of
 
@@ -134,16 +158,19 @@ Choose one:
 4. $y\in\{n\pi:n\in\mathbb{Z}\}$
 5. There are no equilibria.
 
+</details>
+
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Answer:** $y\in\{n\pi:n\in\mathbb{Z}\}$.
+**Answer:** Choice 4: $y\in\{n\pi:n\in\mathbb{Z}\}$.
 
 </details>
 
-## Logistic-model IVP
+## Poll 6: Logistic-model IVP
 
-### Question 1
+<details markdown="1">
+<summary>Show question 1</summary>
 
 Consider the initial value problem for the logistic model:
 
@@ -162,14 +189,17 @@ Choose all that apply:
 4. for all $t\geq 0$
 5. for $t\in(-\infty,\infty)$
 
-<details markdown="1">
-<summary>Show answer</summary>
+</details>
 
-**Answer:** There is a unique local solution for every real $P_0$, on $(-h,h)$ for some $h>0$. It exists for all $t\geq0$ if $P_0\geq0$, and for all real $t$ if $0\leq P_0\leq K$. The all-time claims require these conditions.
+<details markdown="1">
+<summary>Show answer 1</summary>
+
+**Answer:** Choices 1–3 are valid as written. Choice 4 holds when $P_0\geq0$; choice 5 holds when $0\leq P_0\leq K$.
 
 </details>
 
-### Question 2
+<details markdown="1">
+<summary>Show question 2</summary>
 
 If there is a unique solution to the IVP in Question 1, is it possible to
 find an exact formula for $P(t)$?
@@ -182,14 +212,19 @@ Choose all that apply:
 4. Yes, if $P_0<0$
 5. No
 
-<details markdown="1">
-<summary>Show answer</summary>
+</details>
 
-**Answer:** Yes; Yes, if $P_0>0$; Yes, if $P_0=0$; and Yes, if $P_0<0$.
+<details markdown="1">
+<summary>Show answer 2</summary>
+
+**Answer:** Choices 1–4 are correct; choice 5 is not.
 
 </details>
 
-## Sign changes between equilibria
+## Poll 7: Sign changes between equilibria
+
+<details markdown="1">
+<summary>Show question</summary>
 
 Consider the separable IVP:
 
@@ -211,16 +246,19 @@ Choose one:
 4. Yes. The earlier conclusion applied only to nonautonomous ODEs, but this ODE is autonomous.
 5. I am not sure.
 
+</details>
+
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Answer:** Yes. The earlier conclusion applied to autonomous ODEs, but this ODE is not autonomous.
+**Answer:** Choice 3: Yes. The earlier conclusion applied to autonomous ODEs, but this ODE is not autonomous.
 
 </details>
 
-## Linear and homogeneous ODEs
+## Poll 8: Linear and homogeneous ODEs
 
-### Question 1
+<details markdown="1">
+<summary>Show question 1</summary>
 
 Consider the ODE
 
@@ -237,14 +275,17 @@ Choose one:
 3. Nonlinear and homogeneous
 4. Nonlinear and nonhomogeneous
 
-<details markdown="1">
-<summary>Show answer</summary>
+</details>
 
-**Answer:** Linear and homogeneous.
+<details markdown="1">
+<summary>Show answer 1</summary>
+
+**Answer:** Choice 1: Linear and homogeneous.
 
 </details>
 
-### Question 2
+<details markdown="1">
+<summary>Show question 2</summary>
 
 Consider the ODE
 
@@ -261,14 +302,17 @@ Choose one:
 3. Nonlinear and homogeneous
 4. Nonlinear and nonhomogeneous
 
-<details markdown="1">
-<summary>Show answer</summary>
+</details>
 
-**Answer:** Nonlinear and homogeneous.
+<details markdown="1">
+<summary>Show answer 2</summary>
+
+**Answer:** Choice 3: Nonlinear and homogeneous.
 
 </details>
 
-### Question 3
+<details markdown="1">
+<summary>Show question 3</summary>
 
 Consider the ODE
 
@@ -285,14 +329,17 @@ Choose one:
 3. Nonlinear and homogeneous
 4. Nonlinear and nonhomogeneous
 
-<details markdown="1">
-<summary>Show answer</summary>
+</details>
 
-**Answer:** Nonlinear and nonhomogeneous.
+<details markdown="1">
+<summary>Show answer 3</summary>
+
+**Answer:** Choice 4: Nonlinear and nonhomogeneous.
 
 </details>
 
-### Question 4
+<details markdown="1">
+<summary>Show question 4</summary>
 
 Consider the ODE
 
@@ -309,10 +356,12 @@ Choose one:
 3. Nonlinear and homogeneous
 4. Nonlinear and nonhomogeneous
 
-<details markdown="1">
-<summary>Show answer</summary>
+</details>
 
-**Answer:** Linear and nonhomogeneous.
+<details markdown="1">
+<summary>Show answer 4</summary>
+
+**Answer:** Choice 2: Linear and nonhomogeneous.
 
 </details>
 
