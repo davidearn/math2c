@@ -365,6 +365,71 @@ Choose one:
 
 </details>
 
+## Poll 9: Two meanings of homogeneous
+
+<details markdown="1">
+<summary>Show question 1</summary>
+
+For $x>0$, which of the following are homogeneous linear ODEs? Select all
+that apply.
+
+Choose all that apply:
+
+1. $\frac{dy}{dx}=\frac{y}{x}$
+2. $\frac{dy}{dx}=1+\left(\frac{y}{x}\right)^2$
+3. $\frac{dy}{dx}=-y$
+4. $\frac{dy}{dx}=x+y$
+
+</details>
+
+<details markdown="1">
+<summary>Show answer 1</summary>
+
+**Answer:** Choices 1 and 3.
+
+</details>
+
+<details markdown="1">
+<summary>Show question 2</summary>
+
+For $x>0$, which of the following are homogeneous in the scaling sense
+discussed in class? Select all that apply.
+
+Choose all that apply:
+
+1. $\frac{dy}{dx}=\frac{y}{x}$
+2. $\frac{dy}{dx}=1+\left(\frac{y}{x}\right)^2$
+3. $\frac{dy}{dx}=-y$
+4. $\frac{dy}{dx}=x+y$
+
+</details>
+
+<details markdown="1">
+<summary>Show answer 2</summary>
+
+**Answer:** Choices 1 and 2. Equation 1 satisfies both meanings; equation 3 is homogeneous only in the linear-equation sense, and equation 2 only in the scaling sense.
+
+</details>
+
+<details markdown="1">
+<summary>Show question 3</summary>
+
+I am attending this lecture:
+
+Choose one:
+
+1. in person
+2. online
+
+</details>
+
+<details markdown="1">
+<summary>Show answer 3</summary>
+
+**Answer:** None; this records attendance mode, not mathematical correctness. Credit remains based on participation.
+
+</details>
+
 <script>
 window.MathJax = {tex: {inlineMath: [['$', '$']]}};
 document.querySelectorAll('details').forEach((item) => {
