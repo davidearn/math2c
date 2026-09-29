@@ -14,5 +14,5 @@ Topics for future lectures are tentative. Slide files appear here when they are 
 | 6 | 18 September | Separable equations | [2cl_separable_equations.pdf](2cl_separable_equations.pdf) | 2026 Sep 25, 11:06am |
 | 7 | 22 September | Classification of linear ODEs | [2cl_linear_equations.pdf](2cl_linear_equations.pdf) | 2026 Sep 28, 4:17pm |
 | 8 | 24 September | Linear ODE theory and solving 1st order linear ODEs | [2cl_linear_equations.pdf](2cl_linear_equations.pdf) | 2026 Sep 28, 4:17pm |
-| 9 | 25 September | Linear equations and Bernoulli equations | [2cl_first_order_methods.pdf](2cl_first_order_methods.pdf) | 2026 Sep 28, 9:35pm |
-| 10 | 29 September | Other first-order methods | [2cl_first_order_methods.pdf](2cl_first_order_methods.pdf) | 2026 Sep 28, 9:35pm |
+| 9 | 25 September | Linear equations and Bernoulli equations | [2cl_first_order_methods.pdf](2cl_first_order_methods.pdf) | 2026 Sep 28, 10:01pm |
+| 10 | 29 September | Other first-order methods | [2cl_first_order_methods.pdf](2cl_first_order_methods.pdf) | 2026 Sep 28, 10:01pm |
