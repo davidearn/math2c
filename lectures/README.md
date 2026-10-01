@@ -16,3 +16,4 @@ Topics for future lectures are tentative. Slide files appear here when they are 
 | 8 | 24 September | Linear ODE theory and solving 1st order linear ODEs | [2cl_linear_equations.pdf](2cl_linear_equations.pdf) | 2026 Sep 28, 4:17pm |
 | 9 | 25 September | Linear equations and Bernoulli equations | [2cl_first_order_methods.pdf](2cl_first_order_methods.pdf) | 2026 Sep 28, 10:10pm |
 | 10 | 29 September | Other first-order methods | [2cl_first_order_methods.pdf](2cl_first_order_methods.pdf) | 2026 Sep 28, 10:10pm |
+| 11 | 1 October | Exact equations | [2cl_first_order_methods.pdf](2cl_first_order_methods.pdf) | 2026 Sep 28, 10:10pm |
