@@ -920,16 +920,16 @@ Choose one:
 <summary>Show results 1</summary>
 
 <div class="poll-results">
-<p class="poll-result-note">61 students answered this question.</p>
+<p class="poll-result-note">75 students answered this question.</p>
 <div class="poll-result-row">
 <div class="poll-result-label">1. Yes</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 52.459%"></div></div>
-<div class="poll-result-value">32 (52.5%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 54.667%"></div></div>
+<div class="poll-result-value">41 (54.7%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">2. No</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 47.541%"></div></div>
-<div class="poll-result-value">29 (47.5%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 45.333%"></div></div>
+<div class="poll-result-value">34 (45.3%)</div>
 </div>
 </div>
 
@@ -963,41 +963,41 @@ Choose one:
 <summary>Show results 2</summary>
 
 <div class="poll-results">
-<p class="poll-result-note">61 students answered this question.</p>
+<p class="poll-result-note">75 students answered this question.</p>
 <div class="poll-result-row">
 <div class="poll-result-label">1. $\leq 30$ minutes</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 1.639%"></div></div>
-<div class="poll-result-value">1 (1.6%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 1.333%"></div></div>
+<div class="poll-result-value">1 (1.3%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">2. between 30 and 60 minutes</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 4.918%"></div></div>
-<div class="poll-result-value">3 (4.9%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 5.333%"></div></div>
+<div class="poll-result-value">4 (5.3%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">3. between 60 and 90 minutes</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 18.033%"></div></div>
-<div class="poll-result-value">11 (18.0%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 17.333%"></div></div>
+<div class="poll-result-value">13 (17.3%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">4. between 90 and 120 minutes</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 19.672%"></div></div>
-<div class="poll-result-value">12 (19.7%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 20.000%"></div></div>
+<div class="poll-result-value">15 (20.0%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">5. More than 120 minutes</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 8.197%"></div></div>
-<div class="poll-result-value">5 (8.2%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 8.000%"></div></div>
+<div class="poll-result-value">6 (8.0%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">6. I did not manage to complete the full practice test</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 8.197%"></div></div>
-<div class="poll-result-value">5 (8.2%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 10.667%"></div></div>
+<div class="poll-result-value">8 (10.7%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">7. I did not attempt the practice test</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 39.344%"></div></div>
-<div class="poll-result-value">24 (39.3%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 37.333%"></div></div>
+<div class="poll-result-value">28 (37.3%)</div>
 </div>
 </div>
 
@@ -1030,36 +1030,89 @@ Choose one:
 <summary>Show results 3</summary>
 
 <div class="poll-results">
-<p class="poll-result-note">61 students answered this question.</p>
+<p class="poll-result-note">75 students answered this question.</p>
 <div class="poll-result-row">
 <div class="poll-result-label">1. fantastic</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 3.279%"></div></div>
-<div class="poll-result-value">2 (3.3%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 4.000%"></div></div>
+<div class="poll-result-value">3 (4.0%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">2. happy</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 11.475%"></div></div>
-<div class="poll-result-value">7 (11.5%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 12.000%"></div></div>
+<div class="poll-result-value">9 (12.0%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">3. okay</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 31.148%"></div></div>
-<div class="poll-result-value">19 (31.1%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 32.000%"></div></div>
+<div class="poll-result-value">24 (32.0%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">4. unhappy</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 9.836%"></div></div>
-<div class="poll-result-value">6 (9.8%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 8.000%"></div></div>
+<div class="poll-result-value">6 (8.0%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">5. horrible</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 6.557%"></div></div>
-<div class="poll-result-value">4 (6.6%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 9.333%"></div></div>
+<div class="poll-result-value">7 (9.3%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">6. I did not attempt the practice test</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 37.705%"></div></div>
-<div class="poll-result-value">23 (37.7%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 34.667%"></div></div>
+<div class="poll-result-value">26 (34.7%)</div>
+</div>
+</div>
+
+</details>
+
+## Poll 11: Euler's line segments
+
+<details markdown="1">
+<summary>Show question</summary>
+
+Each red line segment in our Euler approximation is tangent, at its
+starting point, to which curve?
+
+Choose one:
+
+1. The blue solution curve of the original IVP
+2. The solution curve through that segment's computed starting point
+3. No solution curve, because the segment is only an approximation
+4. The preceding red line segment
+
+</details>
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Answer:** Choice 2. Each segment uses the slope $f(x_i,y_i)$, so it is tangent to the solution curve through $(x_i,y_i)$. The first segment is also tangent to the blue solution curve, because its starting point is the initial point of the original IVP. Later computed points generally do not lie on that blue curve.
+
+</details>
+
+<details markdown="0">
+<summary>Show results</summary>
+
+<div class="poll-results">
+<p class="poll-result-note">52 students answered this question.</p>
+<div class="poll-result-row">
+<div class="poll-result-label">1. The blue solution curve of the original IVP</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 11.538%"></div></div>
+<div class="poll-result-value">6 (11.5%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">2. The solution curve through that segment&#x27;s computed starting point</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 65.385%"></div></div>
+<div class="poll-result-value">34 (65.4%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">3. No solution curve, because the segment is only an approximation</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 17.308%"></div></div>
+<div class="poll-result-value">9 (17.3%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">4. The preceding red line segment</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 5.769%"></div></div>
+<div class="poll-result-value">3 (5.8%)</div>
 </div>
 </div>
 
