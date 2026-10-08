@@ -19,3 +19,4 @@ Topics for future lectures are tentative. Slide files appear here when they are 
 | 11 | 1 October | Exact equations | [2cl_first_order_methods.pdf](2cl_first_order_methods.pdf) | 2026 Sep 28, 10:10pm |
 | 12 | 2 October | Q&A with the TA (recording available through Echo360 in Avenue) | No slides | - |
 | 13 | 6 October | Practice Test 1 solutions | [2cl_test1_practice_solutions.pdf](2cl_test1_practice_solutions.pdf) | 2026 Oct 6, 7:57am |
+| 14 | 8 October | Approximate solutions of ODEs | [2cl_eulers_method.pdf](2cl_eulers_method.pdf) | 2026 Oct 7, 10:29pm |
