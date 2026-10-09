@@ -1118,6 +1118,71 @@ Choose one:
 
 </details>
 
+## Poll 12: Linear independence of trigonometric functions
+
+<details markdown="1">
+<summary>Show question</summary>
+
+Consider $\cos^2x$, $\sin^2x$, and the constant function $1$. Are these
+three functions linearly independent on $\mathcal I=(-\pi,\pi)$?
+
+Choose one:
+
+1. YES, and I know how to show it
+2. NO, and I know how to show it
+3. YES, but I'm not sure how to show it
+4. NO, but I'm not sure how to show it
+5. MAYBE: we need more information to say for sure
+6. UNCERTAIN: I don't know how to figure this out
+
+</details>
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Answer:** Choices 2 and 4. The functions are linearly dependent because $\cos^2x+\sin^2x-1=0$ is a linear combination with coefficients not all zero.
+
+</details>
+
+<details markdown="0">
+<summary>Show results</summary>
+
+<div class="poll-results">
+<p class="poll-result-note">41 students answered this question.</p>
+<div class="poll-result-row">
+<div class="poll-result-label">1. YES, and I know how to show it</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 17.073%"></div></div>
+<div class="poll-result-value">7 (17.1%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">2. NO, and I know how to show it</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 26.829%"></div></div>
+<div class="poll-result-value">11 (26.8%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">3. YES, but I&#x27;m not sure how to show it</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 21.951%"></div></div>
+<div class="poll-result-value">9 (22.0%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">4. NO, but I&#x27;m not sure how to show it</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 17.073%"></div></div>
+<div class="poll-result-value">7 (17.1%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">5. MAYBE: we need more information to say for sure</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 4.878%"></div></div>
+<div class="poll-result-value">2 (4.9%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">6. UNCERTAIN: I don&#x27;t know how to figure this out</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 12.195%"></div></div>
+<div class="poll-result-value">5 (12.2%)</div>
+</div>
+</div>
+
+</details>
+
 <script>
 window.MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}};
 document.querySelectorAll('details').forEach((item) => {
