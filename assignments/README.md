@@ -19,7 +19,7 @@ precedence if there is any discrepancy.
 |---:|:---|
 | 1 | Thursday, 24 September 2026 at 11:59 p.m. |
 | 2 | Thursday, 8 October 2026 at 11:59 p.m. |
-| 3 | Thursday, 22 October 2026 at 11:59 p.m. |
+| 3 | Monday, 26 October 2026 at 11:59 p.m. |
 | 4 | Thursday, 5 November 2026 at 11:59 p.m. |
 | 5 | Thursday, 19 November 2026 at 11:59 p.m. |
 | 6 | Thursday, 3 December 2026 at 11:59 p.m. |
