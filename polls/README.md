@@ -1212,7 +1212,7 @@ Choose one:
 <summary>Show results 1</summary>
 
 <div class="poll-results">
-<p class="poll-result-note">78 students answered this question.</p>
+<p class="poll-result-note">79 students answered this question.</p>
 <div class="poll-result-row">
 <div class="poll-result-label">1. Very easy</div>
 <div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 0.000%"></div></div>
@@ -1220,28 +1220,28 @@ Choose one:
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">2. Somewhat easy</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 7.692%"></div></div>
-<div class="poll-result-value">6 (7.7%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 7.595%"></div></div>
+<div class="poll-result-value">6 (7.6%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">3. Neither easy nor difficult</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 11.538%"></div></div>
-<div class="poll-result-value">9 (11.5%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 11.392%"></div></div>
+<div class="poll-result-value">9 (11.4%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">4. Somewhat difficult</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 42.308%"></div></div>
-<div class="poll-result-value">33 (42.3%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 41.772%"></div></div>
+<div class="poll-result-value">33 (41.8%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">5. Very difficult</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 29.487%"></div></div>
-<div class="poll-result-value">23 (29.5%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 29.114%"></div></div>
+<div class="poll-result-value">23 (29.1%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">6. I did not write Test 1</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 8.974%"></div></div>
-<div class="poll-result-value">7 (9.0%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 10.127%"></div></div>
+<div class="poll-result-value">8 (10.1%)</div>
 </div>
 </div>
 
@@ -1275,7 +1275,7 @@ Choose one:
 <summary>Show results 2</summary>
 
 <div class="poll-results">
-<p class="poll-result-note">78 students answered this question.</p>
+<p class="poll-result-note">79 students answered this question.</p>
 <div class="poll-result-row">
 <div class="poll-result-label">1. Much easier</div>
 <div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 0.000%"></div></div>
@@ -1283,33 +1283,33 @@ Choose one:
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">2. Somewhat easier</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 6.410%"></div></div>
-<div class="poll-result-value">5 (6.4%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 6.329%"></div></div>
+<div class="poll-result-value">5 (6.3%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">3. About as difficult as expected</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 15.385%"></div></div>
-<div class="poll-result-value">12 (15.4%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 15.190%"></div></div>
+<div class="poll-result-value">12 (15.2%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">4. Somewhat harder</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 43.590%"></div></div>
-<div class="poll-result-value">34 (43.6%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 43.038%"></div></div>
+<div class="poll-result-value">34 (43.0%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">5. Much harder</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 25.641%"></div></div>
-<div class="poll-result-value">20 (25.6%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 25.316%"></div></div>
+<div class="poll-result-value">20 (25.3%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">6. I had no particular expectation</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 1.282%"></div></div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 1.266%"></div></div>
 <div class="poll-result-value">1 (1.3%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">7. I did not write Test 1</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 7.692%"></div></div>
-<div class="poll-result-value">6 (7.7%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 8.861%"></div></div>
+<div class="poll-result-value">7 (8.9%)</div>
 </div>
 </div>
 
@@ -1344,7 +1344,7 @@ Choose one:
 <summary>Show results 3</summary>
 
 <div class="poll-results">
-<p class="poll-result-note">78 students answered this question.</p>
+<p class="poll-result-note">79 students answered this question.</p>
 <div class="poll-result-row">
 <div class="poll-result-label">1. Much less time</div>
 <div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 0.000%"></div></div>
@@ -1352,38 +1352,38 @@ Choose one:
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">2. Somewhat less time</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 5.128%"></div></div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 5.063%"></div></div>
 <div class="poll-result-value">4 (5.1%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">3. About the time I expected</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 26.923%"></div></div>
-<div class="poll-result-value">21 (26.9%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 26.582%"></div></div>
+<div class="poll-result-value">21 (26.6%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">4. Somewhat more time</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 32.051%"></div></div>
-<div class="poll-result-value">25 (32.1%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 31.646%"></div></div>
+<div class="poll-result-value">25 (31.6%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">5. Much more time</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 23.077%"></div></div>
-<div class="poll-result-value">18 (23.1%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 22.785%"></div></div>
+<div class="poll-result-value">18 (22.8%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">6. I did not finish working through the test</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 2.564%"></div></div>
-<div class="poll-result-value">2 (2.6%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 2.532%"></div></div>
+<div class="poll-result-value">2 (2.5%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">7. I had no particular expectation</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 2.564%"></div></div>
-<div class="poll-result-value">2 (2.6%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 2.532%"></div></div>
+<div class="poll-result-value">2 (2.5%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">8. I did not write Test 1</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 7.692%"></div></div>
-<div class="poll-result-value">6 (7.7%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 8.861%"></div></div>
+<div class="poll-result-value">7 (8.9%)</div>
 </div>
 </div>
 
@@ -1415,31 +1415,31 @@ Choose one:
 <summary>Show results 4</summary>
 
 <div class="poll-results">
-<p class="poll-result-note">78 students answered this question.</p>
+<p class="poll-result-note">79 students answered this question.</p>
 <div class="poll-result-row">
 <div class="poll-result-label">1. I finished comfortably, with plenty of time remaining</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 20.513%"></div></div>
-<div class="poll-result-value">16 (20.5%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 20.253%"></div></div>
+<div class="poll-result-value">16 (20.3%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">2. I finished with some time remaining, but felt some time pressure</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 32.051%"></div></div>
-<div class="poll-result-value">25 (32.1%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 31.646%"></div></div>
+<div class="poll-result-value">25 (31.6%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">3. I finished, but felt rushed near the end</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 32.051%"></div></div>
-<div class="poll-result-value">25 (32.1%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 31.646%"></div></div>
+<div class="poll-result-value">25 (31.6%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">4. I ran out of time before completing everything I wanted to do</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 7.692%"></div></div>
-<div class="poll-result-value">6 (7.7%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 7.595%"></div></div>
+<div class="poll-result-value">6 (7.6%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">5. I did not write Test 1</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 7.692%"></div></div>
-<div class="poll-result-value">6 (7.7%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 8.861%"></div></div>
+<div class="poll-result-value">7 (8.9%)</div>
 </div>
 </div>
 
@@ -1474,36 +1474,36 @@ Choose one:
 <summary>Show results 5</summary>
 
 <div class="poll-results">
-<p class="poll-result-note">78 students answered this question.</p>
+<p class="poll-result-note">79 students answered this question.</p>
 <div class="poll-result-row">
 <div class="poll-result-label">1. Very unfair</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 5.128%"></div></div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 5.063%"></div></div>
 <div class="poll-result-value">4 (5.1%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">2. Somewhat unfair</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 7.692%"></div></div>
-<div class="poll-result-value">6 (7.7%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 7.595%"></div></div>
+<div class="poll-result-value">6 (7.6%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">3. Neither fair nor unfair</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 6.410%"></div></div>
-<div class="poll-result-value">5 (6.4%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 6.329%"></div></div>
+<div class="poll-result-value">5 (6.3%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">4. Somewhat fair</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 23.077%"></div></div>
-<div class="poll-result-value">18 (23.1%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 24.051%"></div></div>
+<div class="poll-result-value">19 (24.1%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">5. Very fair</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 51.282%"></div></div>
-<div class="poll-result-value">40 (51.3%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 50.633%"></div></div>
+<div class="poll-result-value">40 (50.6%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">6. I am unsure</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 6.410%"></div></div>
-<div class="poll-result-value">5 (6.4%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 6.329%"></div></div>
+<div class="poll-result-value">5 (6.3%)</div>
 </div>
 </div>
 
@@ -1536,36 +1536,36 @@ Choose one:
 <summary>Show results 6</summary>
 
 <div class="poll-results">
-<p class="poll-result-note">78 students answered this question.</p>
+<p class="poll-result-note">79 students answered this question.</p>
 <div class="poll-result-row">
 <div class="poll-result-label">1. Much too small</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 5.128%"></div></div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 5.063%"></div></div>
 <div class="poll-result-value">4 (5.1%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">2. Somewhat too small</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 10.256%"></div></div>
-<div class="poll-result-value">8 (10.3%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 10.127%"></div></div>
+<div class="poll-result-value">8 (10.1%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">3. About right</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 70.513%"></div></div>
-<div class="poll-result-value">55 (70.5%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 70.886%"></div></div>
+<div class="poll-result-value">56 (70.9%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">4. Somewhat too large</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 3.846%"></div></div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 3.797%"></div></div>
 <div class="poll-result-value">3 (3.8%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">5. Much too large</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 2.564%"></div></div>
-<div class="poll-result-value">2 (2.6%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 2.532%"></div></div>
+<div class="poll-result-value">2 (2.5%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">6. I am unsure</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 7.692%"></div></div>
-<div class="poll-result-value">6 (7.7%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 7.595%"></div></div>
+<div class="poll-result-value">6 (7.6%)</div>
 </div>
 </div>
 
@@ -1598,7 +1598,7 @@ Choose one:
 <summary>Show results 7</summary>
 
 <div class="poll-results">
-<p class="poll-result-note">78 students answered this question.</p>
+<p class="poll-result-note">79 students answered this question.</p>
 <div class="poll-result-row">
 <div class="poll-result-label">1. Much easier</div>
 <div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 0.000%"></div></div>
@@ -1606,28 +1606,28 @@ Choose one:
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">2. Somewhat easier</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 2.564%"></div></div>
-<div class="poll-result-value">2 (2.6%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 2.532%"></div></div>
+<div class="poll-result-value">2 (2.5%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">3. About as difficult</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 23.077%"></div></div>
-<div class="poll-result-value">18 (23.1%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 21.519%"></div></div>
+<div class="poll-result-value">17 (21.5%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">4. Somewhat harder</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 39.744%"></div></div>
-<div class="poll-result-value">31 (39.7%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 40.506%"></div></div>
+<div class="poll-result-value">32 (40.5%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">5. Much harder</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 21.795%"></div></div>
-<div class="poll-result-value">17 (21.8%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 21.519%"></div></div>
+<div class="poll-result-value">17 (21.5%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">6. I cannot judge because I did not attempt both tests</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 12.821%"></div></div>
-<div class="poll-result-value">10 (12.8%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 13.924%"></div></div>
+<div class="poll-result-value">11 (13.9%)</div>
 </div>
 </div>
 
@@ -1659,31 +1659,164 @@ Choose one:
 <summary>Show results 8</summary>
 
 <div class="poll-results">
-<p class="poll-result-note">78 students answered this question.</p>
+<p class="poll-result-note">79 students answered this question.</p>
 <div class="poll-result-row">
 <div class="poll-result-label">1. I attempted the whole test without notes or other help</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 32.051%"></div></div>
-<div class="poll-result-value">25 (32.1%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 31.646%"></div></div>
+<div class="poll-result-value">25 (31.6%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">2. I attempted part of the test without notes or other help</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 23.077%"></div></div>
-<div class="poll-result-value">18 (23.1%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 22.785%"></div></div>
+<div class="poll-result-value">18 (22.8%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">3. I attempted questions using notes or other help</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 28.205%"></div></div>
-<div class="poll-result-value">22 (28.2%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 29.114%"></div></div>
+<div class="poll-result-value">23 (29.1%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">4. I mainly looked through the questions or solutions without attempting them</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 8.974%"></div></div>
-<div class="poll-result-value">7 (9.0%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 8.861%"></div></div>
+<div class="poll-result-value">7 (8.9%)</div>
 </div>
 <div class="poll-result-row">
 <div class="poll-result-label">5. I did not look at the practice test</div>
-<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 7.692%"></div></div>
-<div class="poll-result-value">6 (7.7%)</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 7.595%"></div></div>
+<div class="poll-result-value">6 (7.6%)</div>
+</div>
+</div>
+
+</details>
+
+## Poll 14: Distinct exponential solutions
+
+<details markdown="1">
+<summary>Show question</summary>
+
+$$L[y]=ay''+by'+cy=0,\qquad a,b,c\in\mathbb R,\quad a\ne0.$$
+The solutions of the characteristic equation $(ar^2+br+c=0)$ are
+$$r_1=\frac{-b+\sqrt{b^2-4ac}}{2a}\qquad
+r_2=\frac{-b-\sqrt{b^2-4ac}}{2a},$$
+so we appear to have two solutions to $L[y]=0$, namely
+$$y_1(x)=e^{r_1x}\qquad\hbox{and}\qquad y_2(x)=e^{r_2x}.$$
+
+Choose one:
+
+1. $y_1$ and $y_2$ are always distinct.
+2. $y_1$ and $y_2$ are never distinct.
+3. $y_1$ and $y_2$ are distinct if and only if $b^2-4ac\ne0$.
+4. $y_1$ and $y_2$ are useful if and only if $b^2-4ac>0$.
+5. $y_1$ and $y_2$ are meaningless if $b^2-4ac<0$.
+
+</details>
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Answer:** Choice 3 only.
+
+</details>
+
+<details markdown="0">
+<summary>Show results</summary>
+
+<div class="poll-results">
+<p class="poll-result-note">57 students answered this question. One response did not match a listed choice and is excluded from these results.</p>
+<div class="poll-result-row">
+<div class="poll-result-label">1. $y_1$ and $y_2$ are always distinct.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 5.263%"></div></div>
+<div class="poll-result-value">3 (5.3%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">2. $y_1$ and $y_2$ are never distinct.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 3.509%"></div></div>
+<div class="poll-result-value">2 (3.5%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">3. $y_1$ and $y_2$ are distinct if and only if $b^2-4ac\ne0$.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 82.456%"></div></div>
+<div class="poll-result-value">47 (82.5%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">4. $y_1$ and $y_2$ are useful if and only if $b^2-4ac&gt;0$.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 7.018%"></div></div>
+<div class="poll-result-value">4 (7.0%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">5. $y_1$ and $y_2$ are meaningless if $b^2-4ac&lt;0$.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 1.754%"></div></div>
+<div class="poll-result-value">1 (1.8%)</div>
+</div>
+</div>
+
+</details>
+
+## Poll 15: Real solutions from complex roots
+
+<details markdown="1">
+<summary>Show question</summary>
+
+Consider the second-order linear homogeneous ODE
+$$L[y]=ay''+by'+cy=0,$$
+where $a,b,c\in\mathbb R$ and $a\ne0$.
+For the case $b^2-4ac<0$, we found two complex solutions,
+$$e^{\lambda x}e^{i\omega x}\qquad\hbox{and}\qquad
+e^{\lambda x}e^{-i\omega x},$$
+where $\lambda,\omega\in\mathbb R$. How can we find real solutions?
+
+Choose one:
+
+1. We can't. Dr. Earn lied to us, intentionally trying to confuse us.
+2. We can just set $i=1$ to get real solutions.
+3. Multiplying the two solutions yields a real solution.
+4. $e^{\lambda x}$ and $xe^{\lambda x}$ are real solutions.
+5. The sum of the two complex solutions, and their difference divided by $i$, yield real solutions.
+6. We could ask Dr. Earn $-$ he probably knows.
+
+</details>
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Answer:** Choice 5 only.
+
+</details>
+
+<details markdown="0">
+<summary>Show results</summary>
+
+<div class="poll-results">
+<p class="poll-result-note">54 students answered this question.</p>
+<div class="poll-result-row">
+<div class="poll-result-label">1. We can&#x27;t. Dr. Earn lied to us, intentionally trying to confuse us.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 9.259%"></div></div>
+<div class="poll-result-value">5 (9.3%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">2. We can just set $i=1$ to get real solutions.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 3.704%"></div></div>
+<div class="poll-result-value">2 (3.7%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">3. Multiplying the two solutions yields a real solution.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 12.963%"></div></div>
+<div class="poll-result-value">7 (13.0%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">4. $e^{\lambda x}$ and $xe^{\lambda x}$ are real solutions.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 0.000%"></div></div>
+<div class="poll-result-value">0 (0.0%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">5. The sum of the two complex solutions, and their difference divided by $i$, yield real solutions.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 50.000%"></div></div>
+<div class="poll-result-value">27 (50.0%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">6. We could ask Dr. Earn $-$ he probably knows.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 24.074%"></div></div>
+<div class="poll-result-value">13 (24.1%)</div>
 </div>
 </div>
 
