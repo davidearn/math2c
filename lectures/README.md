@@ -22,4 +22,4 @@ Topics for future lectures are tentative. Slide files appear here when they are 
 | 14 | 8 October | Approximate solutions of ODEs | [2cl_eulers_method.pdf](2cl_eulers_method.pdf) | 2026 Oct 7, 10:29pm |
 | 15 | 9 October | Higher-order linear ODE theory | [2cl_linear_ode_theory.pdf](2cl_linear_ode_theory.pdf) | 2026 Oct 18, 10:08pm |
 | 16 | 20 October | Wronskians and general solutions of linear ODEs | [2cl_linear_ode_theory.pdf](2cl_linear_ode_theory.pdf) | 2026 Oct 18, 10:08pm |
-| 17 | 22 October | Homogeneous linear ODEs with constant coefficients | [2cl_constant_coefficients.pdf](2cl_constant_coefficients.pdf) | 2026 Oct 19, 10:15pm |
+| 17 | 22 October | Homogeneous linear ODEs with constant coefficients | [2cl_constant_coefficients.pdf](2cl_constant_coefficients.pdf) | 2026 Oct 21, 9:34pm |
