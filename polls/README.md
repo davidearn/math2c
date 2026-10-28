@@ -1822,6 +1822,75 @@ Choose one:
 
 </details>
 
+## Poll 16: Superposition of particular solutions
+
+<details markdown="1">
+<summary>Show question</summary>
+
+Consider the ODE
+$$L[y]=y''-2y'+y=2\sin(x)\cos(x)-x^2+1.\qquad(\heartsuit)$$
+Note that equation $(\heartsuit)$ can be written
+$$L[y]=g_1(x)-g_2(x),$$
+where $g_1(x)=\sin(2x)$ and $g_2(x)=x^2-1$.
+
+Choose all that apply:
+
+1. Equation $(\heartsuit)$ can be solved by the method of undetermined coefficients.
+2. We can use the principle of superposition to obtain the solution of Equation $(\heartsuit)$.
+3. We can't use superposition because the RHS is a difference, not a sum, of $g_1$ and $g_2$.
+4. Equation $(\heartsuit)$ cannot be solved by any method.
+5. Dr. Earn knows how to solve Equation $(\heartsuit)$, but he's not going to tell us how.
+6. Equation $(\heartsuit)$ will appear on the final exam in this course.
+
+</details>
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Answer:** Choices 1 and 2. Choice 6: maybe.
+
+</details>
+
+<details markdown="0">
+<summary>Show results</summary>
+
+<div class="poll-results">
+<p class="poll-result-note">65 students answered this question.</p>
+<div class="poll-result-row">
+<div class="poll-result-label">1. Equation $(\heartsuit)$ can be solved by the method of undetermined coefficients.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 75.385%"></div></div>
+<div class="poll-result-value">49 (75.4%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">2. We can use the principle of superposition to obtain the solution of Equation $(\heartsuit)$.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 72.308%"></div></div>
+<div class="poll-result-value">47 (72.3%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">3. We can&#x27;t use superposition because the RHS is a difference, not a sum, of $g_1$ and $g_2$.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 12.308%"></div></div>
+<div class="poll-result-value">8 (12.3%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">4. Equation $(\heartsuit)$ cannot be solved by any method.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 4.615%"></div></div>
+<div class="poll-result-value">3 (4.6%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">5. Dr. Earn knows how to solve Equation $(\heartsuit)$, but he&#x27;s not going to tell us how.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 18.462%"></div></div>
+<div class="poll-result-value">12 (18.5%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">6. Equation $(\heartsuit)$ will appear on the final exam in this course.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 26.154%"></div></div>
+<div class="poll-result-value">17 (26.2%)</div>
+</div>
+<p class="poll-result-note">Students could select several choices; percentages may total more than 100%.</p>
+</div>
+
+</details>
+
 <script>
 window.MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}};
 document.querySelectorAll('details').forEach((item) => {
