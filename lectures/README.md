@@ -26,3 +26,5 @@ Topics for future lectures are tentative. Slide files appear here when they are 
 | 18 | 23 October | Homogeneous linear ODEs with constant coefficients (order ≥2) | [2cl_constant_coefficients.pdf](2cl_constant_coefficients.pdf) | 2026 Oct 26, 9:50pm |
 | 19 | 27 October | Undetermined coefficients | [2cl_undetermined_coefficients.pdf](2cl_undetermined_coefficients.pdf) | 2026 Oct 26, 9:50pm |
 | 20 | 29 October | Undetermined coefficients continued; variation of parameters | [2cl_variation_of_parameters.pdf](2cl_variation_of_parameters.pdf) | 2026 Oct 28, 5:01pm |
+| 21 | 30 October | Variation of parameters (continued) | [2cl_variation_of_parameters.pdf](2cl_variation_of_parameters.pdf) | 2026 Oct 28, 5:01pm |
+| 22 | 3 November | Cauchy–Euler equations | Not yet posted | - |

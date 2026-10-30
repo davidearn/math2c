@@ -1891,6 +1891,68 @@ Choose all that apply:
 
 </details>
 
+## Poll 17: Choosing a method for secant forcing
+
+<details markdown="1">
+<summary>Show question</summary>
+
+Consider the 2nd order linear ODE,
+$$y''+y=\sec(x).\qquad(\spadesuit)$$
+We found the characteristic equation $r^2+1=0$ and inferred that the
+complementary function is $y_c=c_1\cos x+c_2\sin x$.
+We can solve Equation $(\spadesuit)$ by:
+
+Choose one:
+
+1. the method of variation of parameters;
+2. the method of undetermined coefficients;
+3. neither variation of parameters nor undetermined coefficients;
+4. no method: $(\spadesuit)$ cannot be solved;
+5. a new trick that Dr. Earn is about to introduce.
+
+</details>
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Answer:** Choice 1 only.
+
+</details>
+
+<details markdown="0">
+<summary>Show results</summary>
+
+<div class="poll-results">
+<p class="poll-result-note">57 students answered this question.</p>
+<div class="poll-result-row">
+<div class="poll-result-label">1. the method of variation of parameters;</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 68.421%"></div></div>
+<div class="poll-result-value">39 (68.4%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">2. the method of undetermined coefficients;</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 17.544%"></div></div>
+<div class="poll-result-value">10 (17.5%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">3. neither variation of parameters nor undetermined coefficients;</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 7.018%"></div></div>
+<div class="poll-result-value">4 (7.0%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">4. no method: $(\spadesuit)$ cannot be solved;</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 0.000%"></div></div>
+<div class="poll-result-value">0 (0.0%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">5. a new trick that Dr. Earn is about to introduce.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 7.018%"></div></div>
+<div class="poll-result-value">4 (7.0%)</div>
+</div>
+</div>
+
+</details>
+
 <script>
 window.MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}};
 document.querySelectorAll('details').forEach((item) => {
