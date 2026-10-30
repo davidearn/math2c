@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-CA" xml:lang="en-CA">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Math 2C03 - Assignment 3</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+  </style>
+  <style>
+  html { color: #202a35; background: #fff; }
+  body { max-width: 54rem; margin: 2.5rem auto; padding: 0 1.3rem 3rem;
+    font: 1.05rem/1.6 system-ui, sans-serif; }
+  h1 { color: #173f65; font-size: 2rem; line-height: 1.2; }
+  h2 { color: #173f65; font-size: 1.45rem; margin-top: 2.5rem;
+    border-bottom: 1px solid #d7dfe7; padding-bottom: .3rem; }
+  h3 { font-size: 1.1rem; }
+  a { color: #145a92; }
+  nav { margin: 0 0 1.5rem; font-size: .95rem; }
+  details { margin: 1rem 0; padding: .6rem 1rem;
+    border-left: 3px solid #557d91; background: #f3f7fa; }
+  summary { cursor: pointer; font-weight: 600; color: #173f65; }
+  img { max-width: 100%; height: auto; }
+  table { width: 100%; border-collapse: collapse; }
+  td, th { padding: .45rem; text-align: left; }
+  td { vertical-align: top; }
+  .math.display { display: block; overflow-x: auto; padding: .2rem 0; }
+  @media print { details { display: none; } }
+  </style>
+  <script
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"
+  type="text/javascript"></script>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Math 2C03 - Assignment 3</h1>
+<p class="date">Fall 2026</p>
+</header>
+<nav><a href="./">Assignments</a> · <a href="assignment3.pdf">Question-only PDF</a></nav>
+<p>This is one generated instance of the assignment. Your Childsmath
+questions may have different numerical values or choice orders. Submit
+your answers in Childsmath.</p>
+<h2 id="question-1">Question 1</h2>
+<p>Consider the following statements.</p>
+<ol type="i">
+<li><p>Every linear <span class="math inline">\(n\)</span>th order
+homogeneous ODE has a solution of the form <span
+class="math inline">\(y(x)=e^{rx}\)</span>, where <span
+class="math inline">\(r\)</span> is some real number.</p></li>
+<li><p>Consider <span
+class="math inline">\(y&#39;&#39;&#39;+ay&#39;&#39;+by&#39;+cy=0\)</span>
+and let <span class="math inline">\(r_1,r_2,r_3\)</span> be the distinct
+roots (i.e., all are different) of the polynomial <span
+class="math inline">\(P(r)=r^3+ar^2+br+c\)</span>. Then the general
+solution is given by <span
+class="math inline">\(y(x)=c_1e^{r_1x}+c_2e^{r_2x}+c_3e^{r_3x}\)</span>.</p></li>
+<li><p>The fundamental set of solutions to <span
+class="math inline">\(y&#39;&#39;-2my&#39;+m^2y=0\)</span>, where <span
+class="math inline">\(m&gt;0\)</span>, is given by <span
+class="math inline">\(\{e^{r_1x},e^{r_2x}\}\)</span> for some
+appropriate real values <span
+class="math inline">\(r_1,r_2&gt;0\)</span>.</p></li>
+<li><p>The auxiliary equation of <span
+class="math inline">\(ny&#39;&#39;-my&#39;+ky=0\)</span>, where <span
+class="math inline">\(n,m,k\)</span> are real numbers with <span
+class="math inline">\(n\ne0\)</span>, is given by <span
+class="math inline">\(nr^2-mr+kr=0\)</span>.</p></li>
+<li><p>Two complex values that are not real solve the auxiliary equation
+of <span class="math inline">\(y&#39;&#39;+my&#39;+m^2y=0\)</span>,
+where <span class="math inline">\(m&gt;0\)</span>.</p></li>
+</ol>
+<p>Determine which of the above statements are True (1) or False
+(2).</p>
+<p>So, for example, if you think that the answers, in the above order,
+are True, False, False, True, False, then you would enter ‘1,2,2,1,2’
+into the answer box below (without the quotes).</p>
+<div class="answer">
+<details><summary>Show answer</summary>
+<p><span class="math inline">\(2,1,2,2,1\)</span>.</p>
+</details>
+</div>
+<h2 id="question-2">Question 2</h2>
+<p>Which of the following sets of functions are linearly independent on
+the interval <span class="math inline">\((-\infty,\infty)\)</span>?</p>
+<ol type="i">
+<li><p><span class="math inline">\(f_1(x)=x\)</span>, <span
+class="math inline">\(f_2(x)=3x\)</span>, <span
+class="math inline">\(f_3(x)=x^2+7\)</span>.</p></li>
+<li><p><span class="math inline">\(f_1(x)=3e^{4x}\)</span>, <span
+class="math inline">\(f_2(x)=9e^{-4x}\)</span>, <span
+class="math inline">\(f_3(x)=e^{4x}-e^{-4x}\)</span>.</p></li>
+<li><p><span class="math inline">\(f_1(x)=9\sin^2 x\)</span>, <span
+class="math inline">\(f_2(x)=4\cos^2 x\)</span>, <span
+class="math inline">\(f_3(x)=7\)</span>.</p></li>
+</ol>
+<table>
+<tbody>
+<tr>
+<td style="text-align: left;">(A) (ii) only</td>
+<td style="text-align: left;">(B) (ii) and (iii) only</td>
+</tr>
+<tr>
+<td style="text-align: left;">(C) none of them</td>
+<td style="text-align: left;">(D) (iii) only</td>
+</tr>
+<tr>
+<td style="text-align: left;">(E) all of them</td>
+<td style="text-align: left;">(F) (i) and (ii) only</td>
+</tr>
+<tr>
+<td style="text-align: left;">(G) (i) and (iii) only</td>
+<td style="text-align: left;">(H) (i) only</td>
+</tr>
+</tbody>
+</table>
+<div class="answer">
+<details><summary>Show answer</summary>
+<ol start="3" type="A">
+<li>none of them.</li>
+</ol>
+</details>
+</div>
+<h2 id="question-3">Question 3</h2>
+<p>For which of the cases below do the given functions form a
+fundamental set of solutions of the corresponding differential equation
+on the indicated interval?</p>
+<ol type="i">
+<li><p><span class="math inline">\(y&#39;&#39;-10y&#39;+21y=0\)</span>;
+<span class="math inline">\(8e^{5x}\)</span>, <span
+class="math inline">\(5e^{3x}\)</span>, <span
+class="math inline">\((-\infty,\infty)\)</span>.</p></li>
+<li><p><span class="math inline">\(y&#39;&#39;-10y&#39;+25y=0\)</span>;
+<span class="math inline">\(2e^{5x}\)</span>, <span
+class="math inline">\(6xe^{5x}\)</span>, <span
+class="math inline">\((-\infty,\infty)\)</span>.</p></li>
+<li><p><span
+class="math inline">\(x^2y&#39;&#39;-8xy&#39;+20y=0\)</span>; <span
+class="math inline">\(9x^4\)</span>, <span
+class="math inline">\(3x^5\)</span>, <span
+class="math inline">\((0,\infty)\)</span>.</p></li>
+</ol>
+<table>
+<tbody>
+<tr>
+<td style="text-align: left;">(A) (i) and (iii) only</td>
+<td style="text-align: left;">(B) (i) and (ii) only</td>
+</tr>
+<tr>
+<td style="text-align: left;">(C) (iii) only</td>
+<td style="text-align: left;">(D) (ii) and (iii) only</td>
+</tr>
+<tr>
+<td style="text-align: left;">(E) none of them</td>
+<td style="text-align: left;">(F) all of them</td>
+</tr>
+<tr>
+<td style="text-align: left;">(G) (i) only</td>
+<td style="text-align: left;">(H) (ii) only</td>
+</tr>
+</tbody>
+</table>
+<div class="answer">
+<details><summary>Show answer</summary>
+<ol start="4" type="A">
+<li><ol start="2" type="i">
+<li>and (iii) only.</li>
+</ol></li>
+</ol>
+</details>
+</div>
+<h2 id="question-4">Question 4</h2>
+<p>Let</p>
+<p><span
+class="math display">\[L(y)=a_n(x)y^{(n)}(x)+a_{n-1}(x)y^{(n-1)}(x)+\cdots
++a_1(x)y&#39;(x)+a_0(x)y(x),\]</span></p>
+<p>where <span
+class="math inline">\(a_0(x),a_1(x),\ldots,a_n(x)\)</span> are known
+functions. Consider the <span class="math inline">\(n\)</span>th order
+linear differential equation</p>
+<p><span class="math display">\[L(y)=9e^{6x}\cos
+x+4xe^{6x}.\tag{*}\]</span></p>
+<p>Suppose that it is known that</p>
+<p><span class="math display">\[\begin{aligned}
+L[y_1(x)]&amp;=6xe^{6x} &amp;&amp;\text{when }y_1(x)=30xe^{6x},\\
+L[y_2(x)]&amp;=12e^{6x}\sin x &amp;&amp;\text{when }y_2(x)=60e^{6x}\cos
+x,\\
+L[y_3(x)]&amp;=11e^{6x}\cos x &amp;&amp;\text{when }y_3(x)=77e^{6x}\cos
+x+231e^{6x}\sin x.
+\end{aligned}\]</span></p>
+<p>Find a particular solution to <span
+class="math inline">\((*)\)</span>.</p>
+<div class="answer">
+<details><summary>Show answer</summary>
+<p><span class="math display">\[y_p(x)=20xe^{6x}+63e^{6x}\cos
+x+189e^{6x}\sin x.\]</span></p>
+</details>
+</div>
+<h2 id="question-5">Question 5</h2>
+<p>Solve the following initial value problem.</p>
+<p><span class="math display">\[y&#39;&#39;-14y&#39;+149y=0,\qquad
+y(0)=9,\quad y&#39;(0)=10.\]</span></p>
+<div class="answer">
+<details><summary>Show answer</summary>
+<p><span
+class="math display">\[y(x)=e^{7x}\left(9\cos(10x)-\frac{53}{10}\sin(10x)\right).\]</span></p>
+</details>
+</div>
+<h2 id="question-6">Question 6</h2>
+<p>Solve the following initial value problem.</p>
+<p><span
+class="math display">\[y&#39;&#39;&#39;-14y&#39;&#39;+32y&#39;+128y=0,\qquad
+y(0)=0,\quad y&#39;(0)=0,\quad y&#39;&#39;(0)=4.\]</span></p>
+<div class="answer">
+<details><summary>Show answer</summary>
+<p><span
+class="math display">\[y(x)=\frac1{25}e^{-2x}-\frac1{25}e^{8x}+\frac25xe^{8x}.\]</span></p>
+</details>
+</div>
+<h2 id="question-7">Question 7</h2>
+<p>Use Euler’s method with step size <span
+class="math inline">\(h=0.1\)</span> to approximate <span
+class="math inline">\(y(4.2)\)</span> where <span
+class="math inline">\(y(x)\)</span> is the solution to the following
+initial value problem.</p>
+<p><span class="math display">\[y&#39;=2x+3y+6,\qquad
+y(4)=9.\]</span></p>
+<div class="answer">
+<details><summary>Show answer</summary>
+<p><span class="math inline">\(369/20=18.45\)</span>.</p>
+</details>
+</div>
+<h2 id="question-8">Question 8</h2>
+<ol type="a">
+<li>Find the largest interval on which one of the theorems given in
+class guarantees that the following initial value problem has a unique
+solution.</li>
+</ol>
+<p><span
+class="math display">\[(x+9)y&#39;&#39;&#39;+(x^2-36)y&#39;&#39;+19y=\frac1{x-4},\]</span>
+<span class="math display">\[y(0)=4,\qquad y&#39;(0)=9,\qquad
+y&#39;&#39;(0)=10.\]</span></p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: left;">(A) <span
+class="math inline">\((9,\infty)\)</span></td>
+<td style="text-align: left;">(B) <span
+class="math inline">\((4,\infty)\)</span></td>
+<td style="text-align: left;">(C) <span
+class="math inline">\((-9,\infty)\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">(D) <span
+class="math inline">\((-4,\infty)\)</span></td>
+<td style="text-align: left;">(E) <span
+class="math inline">\((4,9)\)</span></td>
+<td style="text-align: left;">(F) <span
+class="math inline">\((-\infty,-9)\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">(G) <span
+class="math inline">\((-9,4)\)</span></td>
+<td style="text-align: left;">(H) <span
+class="math inline">\((-\infty,4)\)</span></td>
+<td style="text-align: left;">(I) <span
+class="math inline">\((-4,9)\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">(J) <span
+class="math inline">\((-\infty,9)\)</span></td>
+<td style="text-align: left;">(K) <span
+class="math inline">\((-\infty,-4)\)</span></td>
+<td style="text-align: left;">(L) <span
+class="math inline">\((-9,-4)\)</span></td>
+</tr>
+</tbody>
+</table>
+<ol start="2" type="a">
+<li>Find the largest interval on which one of the theorems given in
+class guarantees that the following initial value problem has a unique
+solution.</li>
+</ol>
+<p><span
+class="math display">\[(x-9)y&#39;&#39;&#39;+(x^2-36)y&#39;&#39;+19y=\frac1{x-4},\]</span>
+<span class="math display">\[y(0)=4,\qquad y&#39;(0)=9,\qquad
+y&#39;&#39;(0)=10.\]</span></p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: left;">(A) <span
+class="math inline">\((-9,4)\)</span></td>
+<td style="text-align: left;">(B) <span
+class="math inline">\((9,\infty)\)</span></td>
+<td style="text-align: left;">(C) <span
+class="math inline">\((-\infty,9)\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">(D) <span
+class="math inline">\((-9,\infty)\)</span></td>
+<td style="text-align: left;">(E) <span
+class="math inline">\((-4,9)\)</span></td>
+<td style="text-align: left;">(F) <span
+class="math inline">\((-9,-4)\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">(G) <span
+class="math inline">\((4,9)\)</span></td>
+<td style="text-align: left;">(H) <span
+class="math inline">\((4,\infty)\)</span></td>
+<td style="text-align: left;">(I) <span
+class="math inline">\((-\infty,4)\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">(J) <span
+class="math inline">\((-\infty,-4)\)</span></td>
+<td style="text-align: left;">(K) <span
+class="math inline">\((-\infty,-9)\)</span></td>
+<td style="text-align: left;">(L) <span
+class="math inline">\((-4,\infty)\)</span></td>
+</tr>
+</tbody>
+</table>
+<div class="answer">
+<details><summary>Show answer</summary>
+<ol type="a">
+<li><ol start="7" type="A">
+<li><span class="math inline">\((-9,4)\)</span>.</li>
+</ol></li>
+<li><ol type="I">
+<li><span class="math inline">\((-\infty,4)\)</span>.</li>
+</ol></li>
+</ol>
+</details>
+</div>
+</body>
+</html>

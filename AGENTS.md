@@ -40,6 +40,14 @@ for private metadata and unintended answer material before release.
 
 ## Content controls
 
+Approved assignment reference copies are `assignments/assignment1.html`
+through `assignment4.html` and their question-only PDFs. HTML answers for
+Assignments 1--3 may be revealed by clicking; Assignment 4 must contain no
+answer text until the instructor approves releasing it after the deadline.
+Author these in the private `assignments/source/` folder, never in the public
+copies. Instructor previews, private source Markdown and correspondence
+remain excluded from publication.
+
 Do not change mathematical content or notation without asking the user first.
 Make substantive authoring changes in the private repository, not in published
 copies here. If a public file is generated, modify its source instead.
