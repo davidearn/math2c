@@ -28,3 +28,4 @@ Topics for future lectures are tentative. Slide files appear here when they are 
 | 20 | 29 October | Undetermined coefficients continued; variation of parameters | [2cl_variation_of_parameters.pdf](2cl_variation_of_parameters.pdf) | 2026 Oct 28, 5:01pm |
 | 21 | 30 October | Variation of parameters (continued) | [2cl_variation_of_parameters.pdf](2cl_variation_of_parameters.pdf) | 2026 Oct 28, 5:01pm |
 | 22 | 3 November | Cauchy–Euler equations | [2cl_cauchy_euler.pdf](2cl_cauchy_euler.pdf) | 2026 Nov 2, 6:19pm |
+| 23 | 5 November | Cauchy–Euler equations continued; reduction of order | Not yet posted | - |
