@@ -1953,6 +1953,69 @@ Choose one:
 
 </details>
 
+## Poll 18: Cauchy–Euler method selection
+
+<details markdown="1">
+<summary>Show question</summary>
+
+Consider the Cauchy-Euler equation on $x>0$:
+$$x^2y''-xy'+y=\ln x.$$
+We have found the complementary function
+$$y_c=c_1x+c_2x\ln x.$$
+Which of the following statements are correct? Select all that apply.
+
+Choose all that apply:
+
+1. We can use variation of parameters with $y_1=x$ and $y_2=x\ln x$.
+2. We can use the constant-coefficient undetermined-coefficients recipe directly, because this equation has constant coefficients.
+3. We can set $t=\ln x$, then use undetermined coefficients on the transformed equation.
+4. Neither method is possible because the forcing term is $\ln x$.
+5. I am not sure.
+
+</details>
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Answer:** Choices 1 and 3.
+
+</details>
+
+<details markdown="0">
+<summary>Show results</summary>
+
+<div class="poll-results">
+<p class="poll-result-note">66 students answered this question.</p>
+<div class="poll-result-row">
+<div class="poll-result-label">1. We can use variation of parameters with $y_1=x$ and $y_2=x\ln x$.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 72.727%"></div></div>
+<div class="poll-result-value">48 (72.7%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">2. We can use the constant-coefficient undetermined-coefficients recipe directly, because this equation has constant coefficients.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 24.242%"></div></div>
+<div class="poll-result-value">16 (24.2%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">3. We can set $t=\ln x$, then use undetermined coefficients on the transformed equation.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 54.545%"></div></div>
+<div class="poll-result-value">36 (54.5%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">4. Neither method is possible because the forcing term is $\ln x$.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 0.000%"></div></div>
+<div class="poll-result-value">0 (0.0%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">5. I am not sure.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 10.606%"></div></div>
+<div class="poll-result-value">7 (10.6%)</div>
+</div>
+<p class="poll-result-note">Students could select several choices; percentages may total more than 100%.</p>
+</div>
+
+</details>
+
 <script>
 window.MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}};
 document.querySelectorAll('details').forEach((item) => {
