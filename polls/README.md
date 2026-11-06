@@ -2016,6 +2016,59 @@ Choose all that apply:
 
 </details>
 
+## Poll 19: Reduction of order with constant coefficients
+
+<details markdown="1">
+<summary>Show question</summary>
+
+Which statements about reduction of order for homogeneous second-order linear ODEs with constant coefficients are correct?
+
+Choose all that apply:
+
+1. It cannot be used because the coefficients are constant.
+2. It can be used only when the characteristic equation has a repeated root.
+3. It can be used whether the characteristic roots are distinct or repeated.
+4. For a repeated characteristic root $r$, replacing the constant $C$ in $y=Ce^{rx}$ by a function $u(x)$ leads to the second independent solution $xe^{rx}$.
+
+</details>
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Answer:** Choices 3 and 4.
+
+</details>
+
+<details markdown="0">
+<summary>Show results</summary>
+
+<div class="poll-results">
+<p class="poll-result-note">64 students answered this question.</p>
+<div class="poll-result-row">
+<div class="poll-result-label">1. It cannot be used because the coefficients are constant.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 17.188%"></div></div>
+<div class="poll-result-value">11 (17.2%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">2. It can be used only when the characteristic equation has a repeated root.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 23.438%"></div></div>
+<div class="poll-result-value">15 (23.4%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">3. It can be used whether the characteristic roots are distinct or repeated.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 56.250%"></div></div>
+<div class="poll-result-value">36 (56.2%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">4. For a repeated characteristic root $r$, replacing the constant $C$ in $y=Ce^{rx}$ by a function $u(x)$ leads to the second independent solution $xe^{rx}$.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 65.625%"></div></div>
+<div class="poll-result-value">42 (65.6%)</div>
+</div>
+<p class="poll-result-note">Students could select several choices; percentages may total more than 100%.</p>
+</div>
+
+</details>
+
 <script>
 window.MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}};
 document.querySelectorAll('details').forEach((item) => {
