@@ -30,3 +30,6 @@ Topics for future lectures are tentative. Slide files appear here when they are 
 | 22 | 3 November | Cauchy–Euler equations | [2cl_cauchy_euler.pdf](2cl_cauchy_euler.pdf) | 2026 Nov 2, 6:19pm |
 | 23 | 5 November | Cauchy–Euler equations continued; reduction of order | [2cl_reduction_of_order.pdf](2cl_reduction_of_order.pdf) | 2026 Nov 6, 8:06am |
 | 24 | 6 November | Reduction of order continued; spring–mass models | [2cl_spring_mass_models.pdf](2cl_spring_mass_models.pdf) | 2026 Nov 9, 6:37pm |
+| 25 | 10 November | Spring–mass models (continued) | [2cl_spring_mass_models.pdf](2cl_spring_mass_models.pdf) | 2026 Nov 9, 6:37pm |
+| 26 | 12 November | Spring–mass models (continued) | [2cl_spring_mass_models.pdf](2cl_spring_mass_models.pdf) | 2026 Nov 9, 6:37pm |
+| 27 | 13 November | Q&A with the TA | No slides | - |
