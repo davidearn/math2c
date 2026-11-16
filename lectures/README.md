@@ -33,3 +33,4 @@ Topics for future lectures are tentative. Slide files appear here when they are 
 | 25 | 10 November | Spring–mass models (continued) | [2cl_spring_mass_models.pdf](2cl_spring_mass_models.pdf) | 2026 Nov 9, 6:37pm |
 | 26 | 12 November | Spring–mass models (continued) | [2cl_spring_mass_models.pdf](2cl_spring_mass_models.pdf) | 2026 Nov 9, 6:37pm |
 | 27 | 13 November | Q&A with the TA | No slides | - |
+| 28 | 17 November | Laplace transforms | Not yet posted | - |
