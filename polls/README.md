@@ -2016,7 +2016,60 @@ Choose all that apply:
 
 </details>
 
-## Poll 19: Reduction of order with constant coefficients
+## Poll 19: Reduction of order: constants and independence
+
+<details markdown="1">
+<summary>Show question</summary>
+
+We know a solution $y_1(x)\ne0$ of a homogeneous second-order linear ODE. To reduce the order, we use variation of parameters: $y=uy_1$, followed by $z=u'$. Which statements are correct?
+
+Choose all that apply:
+
+1. Choosing $z\equiv0$ gives only the zero solution $y\equiv0$.
+2. Choosing $z\equiv0$ gives all constant multiples of $y_1$.
+3. A nonzero solution of the reduced equation for $z$ gives a solution $y$ linearly independent of $y_1$.
+4. When finding the general solution, we can omit the integration constant when recovering $u$ from $u'=z$.
+
+</details>
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Answer:** Choices 2 and 3.
+
+</details>
+
+<details markdown="0">
+<summary>Show results</summary>
+
+<div class="poll-results">
+<p class="poll-result-note">48 students answered this question.</p>
+<div class="poll-result-row">
+<div class="poll-result-label">1. Choosing $z\equiv0$ gives only the zero solution $y\equiv0$.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 27.083%"></div></div>
+<div class="poll-result-value">13 (27.1%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">2. Choosing $z\equiv0$ gives all constant multiples of $y_1$.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 56.250%"></div></div>
+<div class="poll-result-value">27 (56.2%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">3. A nonzero solution of the reduced equation for $z$ gives a solution $y$ linearly independent of $y_1$.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 66.667%"></div></div>
+<div class="poll-result-value">32 (66.7%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">4. When finding the general solution, we can omit the integration constant when recovering $u$ from $u&#x27;=z$.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 25.000%"></div></div>
+<div class="poll-result-value">12 (25.0%)</div>
+</div>
+<p class="poll-result-note">Students could select several choices; percentages may total more than 100%.</p>
+</div>
+
+</details>
+
+## Poll 20: Reduction of order with constant coefficients
 
 <details markdown="1">
 <summary>Show question</summary>
@@ -2063,6 +2116,65 @@ Choose all that apply:
 <div class="poll-result-label">4. For a repeated characteristic root $r$, replacing the constant $C$ in $y=Ce^{rx}$ by a function $u(x)$ leads to the second independent solution $xe^{rx}$.</div>
 <div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 65.625%"></div></div>
 <div class="poll-result-value">42 (65.6%)</div>
+</div>
+<p class="poll-result-note">Students could select several choices; percentages may total more than 100%.</p>
+</div>
+
+</details>
+
+## Poll 21: Spring resonance
+
+<details markdown="1">
+<summary>Show question</summary>
+
+We found that a periodically forced mass-spring system resonates if the forcing frequency ($\omega$) is the same as the natural frequency of the spring ($\omega_0$). We found that resonance causes the amplitude of oscillation ($R$) to grow with time as $R\propto\sqrt{1+\omega_0^2t^2}$.
+
+Choose all that apply:
+
+1. That's cool - I'd like to see a mass-spring system do that.
+2. That's ridiculous - no mass-spring system can behave like that indefinitely.
+3. Dr. Earn obviously made a mistake, but must not have had time to correct his slides before class.
+4. Dr. Earn should go back to Grade 2 and learn how to model mass-spring systems properly.
+5. If Dr. Earn learned about resonance in Grade 2, I want to know what school that was.
+
+</details>
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Answer:** Choice 2 addresses the physical limitation. Choices 1 and 5 express personal reactions rather than mathematical claims.
+
+</details>
+
+<details markdown="0">
+<summary>Show results</summary>
+
+<div class="poll-results">
+<p class="poll-result-note">76 students answered this question.</p>
+<div class="poll-result-row">
+<div class="poll-result-label">1. That&#x27;s cool - I&#x27;d like to see a mass-spring system do that.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 55.263%"></div></div>
+<div class="poll-result-value">42 (55.3%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">2. That&#x27;s ridiculous - no mass-spring system can behave like that indefinitely.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 48.684%"></div></div>
+<div class="poll-result-value">37 (48.7%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">3. Dr. Earn obviously made a mistake, but must not have had time to correct his slides before class.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 10.526%"></div></div>
+<div class="poll-result-value">8 (10.5%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">4. Dr. Earn should go back to Grade 2 and learn how to model mass-spring systems properly.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 13.158%"></div></div>
+<div class="poll-result-value">10 (13.2%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">5. If Dr. Earn learned about resonance in Grade 2, I want to know what school that was.</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 26.316%"></div></div>
+<div class="poll-result-value">20 (26.3%)</div>
 </div>
 <p class="poll-result-note">Students could select several choices; percentages may total more than 100%.</p>
 </div>
