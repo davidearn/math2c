@@ -2181,6 +2181,77 @@ Choose all that apply:
 
 </details>
 
+## Poll 22: Exponential order and Laplace transforms
+
+<details markdown="1">
+<summary>Show question</summary>
+
+Which of the following functions are piecewise continuous on $[0,\infty)$ and of exponential order, thereby guaranteeing that their Laplace transforms exist? Select all that apply.
+
+Choose all that apply:
+
+1. $e^t$
+2. $e^{2t}$
+3. $e^{t^2}$
+4. $e^{e^t}$
+5. $\cosh t$
+6. $\cosh(e^t)$
+7. $\cosh(e^{-t})$
+
+</details>
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Answer:** Choices 1, 2, 5 and 7.
+
+</details>
+
+<details markdown="0">
+<summary>Show results</summary>
+
+<div class="poll-results">
+<p class="poll-result-note">51 students answered this question.</p>
+<div class="poll-result-row">
+<div class="poll-result-label">1. $e^t$</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 74.510%"></div></div>
+<div class="poll-result-value">38 (74.5%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">2. $e^{2t}$</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 66.667%"></div></div>
+<div class="poll-result-value">34 (66.7%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">3. $e^{t^2}$</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 25.490%"></div></div>
+<div class="poll-result-value">13 (25.5%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">4. $e^{e^t}$</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 25.490%"></div></div>
+<div class="poll-result-value">13 (25.5%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">5. $\cosh t$</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 47.059%"></div></div>
+<div class="poll-result-value">24 (47.1%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">6. $\cosh(e^t)$</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 23.529%"></div></div>
+<div class="poll-result-value">12 (23.5%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">7. $\cosh(e^{-t})$</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 45.098%"></div></div>
+<div class="poll-result-value">23 (45.1%)</div>
+</div>
+<p class="poll-result-note">Students could select several choices; percentages may total more than 100%.</p>
+</div>
+
+</details>
+
 <script>
 window.MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}};
 document.querySelectorAll('details').forEach((item) => {
