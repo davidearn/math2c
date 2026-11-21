@@ -27,4 +27,4 @@ clickable answers.
 | 3 | [HTML](assignment3.html) | [PDF](assignment3.pdf) | Monday, 26 October 2026 at 11:59 p.m. |
 | 4 | [HTML](assignment4.html) | [PDF](assignment4.pdf) | Thursday, 5 November 2026 at 11:59 p.m. |
 | 5 | — | — | Monday, 23 November 2026 at 11:59 p.m. |
-| 6 | — | — | Thursday, 3 December 2026 at 11:59 p.m. |
+| 6 | — | — | Thursday, 10 December 2026 at 11:59 p.m. |
