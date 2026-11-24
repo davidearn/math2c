@@ -41,8 +41,8 @@ for private metadata and unintended answer material before release.
 ## Content controls
 
 Approved assignment reference copies are `assignments/assignment1.html`
-through `assignment4.html` and their question-only PDFs. HTML answers for
-Assignments 1--4 may be revealed by clicking. Future assignments require the
+through `assignment5.html` and their question-only PDFs. HTML answers for
+Assignments 1--5 may be revealed by clicking. Future assignments require the
 instructor's approval before enabling answers.
 Author these in the private `assignments/source/` folder, never in the public
 copies. Instructor previews, private source Markdown and correspondence

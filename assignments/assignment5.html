@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-CA" xml:lang="en-CA">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Math 2C03 - Assignment 5</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+  </style>
+  <style>
+  html { color: #202a35; background: #fff; }
+  body { max-width: 54rem; margin: 2.5rem auto; padding: 0 1.3rem 3rem;
+    font: 1.05rem/1.6 system-ui, sans-serif; }
+  h1 { color: #173f65; font-size: 2rem; line-height: 1.2; }
+  h2 { color: #173f65; font-size: 1.45rem; margin-top: 2.5rem;
+    border-bottom: 1px solid #d7dfe7; padding-bottom: .3rem; }
+  h3 { font-size: 1.1rem; }
+  a { color: #145a92; }
+  nav { margin: 0 0 1.5rem; font-size: .95rem; }
+  details { margin: 1rem 0; padding: .6rem 1rem;
+    border-left: 3px solid #557d91; background: #f3f7fa; }
+  summary { cursor: pointer; font-weight: 600; color: #173f65; }
+  img { max-width: 100%; height: auto; }
+  table { width: 100%; border-collapse: collapse; }
+  td, th { padding: .45rem; text-align: left; }
+  td { vertical-align: top; }
+  .math.display { display: block; overflow-x: auto; padding: .2rem 0; }
+  @media print { details { display: none; } }
+  </style>
+  <script
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"
+  type="text/javascript"></script>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Math 2C03 - Assignment 5</h1>
+<p class="date">Fall 2026</p>
+</header>
+<nav><a href="./">Assignments</a> · <a href="assignment5.pdf">Question-only PDF</a></nav>
+<p>This is one generated instance of the assignment. Your Childsmath
+questions may have different numerical values or choice orders. Submit
+your answers in Childsmath.</p>
+<h2 id="question-1">Question 1</h2>
+<p>Using the fact that <span class="math inline">\(x_1(t)=e^t\)</span>
+is solution of the second order linear homogeneous DE</p>
+<p><span
+class="math display">\[(7+3t)x&#39;&#39;-3x&#39;-(4+3t)x=0,\]</span></p>
+<p>find a second linearly independent solution <span
+class="math inline">\(x_2(t)\)</span> using the method of reduction of
+order and then find the unique solution of the above DE satisfying the
+initial conditions</p>
+<p><span class="math display">\[x(0)=-13,\qquad
+x&#39;(0)=15.\]</span></p>
+<p>Do NOT enter <span class="math inline">\(x(t)=\)</span> as part of
+your answer.</p>
+<div class="answer">
+<details><summary>Show answer</summary>
+<p>A second independent solution is <span
+class="math inline">\(x_2(t)=(17+6t)e^{-t}\)</span>. The IVP solution is
+<span class="math display">\[x(t)=4e^t-(17+6t)e^{-t}.\]</span></p>
+</details>
+</div>
+<h2 id="question-2">Question 2</h2>
+<p>Solve the initial value problem,</p>
+<p><span
+class="math display">\[3x^2y&#39;&#39;-9x(x+1)y&#39;+\left(\frac{27}{2}x+\frac{45}{4}\right)y
+=3x^{7/2}e^{6x},\]</span></p>
+<p><span class="math display">\[y(1)=\frac1{18}e^6-e^3-1,\]</span></p>
+<p><span
+class="math display">\[y&#39;(1)=\frac5{12}e^6-\frac92e^3-\frac32,\]</span></p>
+<p>given that <span class="math inline">\(y_1(x)=x^{3/2}\)</span> solves
+the associated homogeneous differential equation.</p>
+<div class="answer">
+<details><summary>Show answer</summary>
+<p><span
+class="math display">\[y(x)=x^{3/2}\left(\frac1{18}e^{6x}-e^{3x}-1\right),\qquad
+x&gt;0.\]</span></p>
+</details>
+</div>
+<h2 id="question-3">Question 3</h2>
+<p>A 126 lb weight stretches a spring 14 feet. The weight hangs
+vertically from the spring and a damping force numerically equal to
+<span class="math inline">\(\frac92\sqrt7\)</span> times the
+instantaneous velocity acts on the system. The weight is released from 7
+feet above the equilibrium position with a downward velocity of 30
+ft/s.</p>
+<ol type="a">
+<li><p>Determine the time (in seconds) at which the mass passes through
+the equilibrium position. Round your answer to 4 decimals.</p></li>
+<li><p>Find the time (in seconds) at which the mass attains its extreme
+displacement from the equilibrium position. Round your answer to 4
+decimals.</p></li>
+</ol>
+<div class="answer">
+<details><summary>Show answer</summary>
+<ol type="a">
+<li><p><span class="math inline">\(0.3605\)</span> s.</p></li>
+<li><p><span class="math inline">\(1.0219\)</span> s, the turning point
+after release.</p></li>
+</ol>
+</details>
+</div>
+<h2 id="question-4">Question 4</h2>
+<p>When a 5 kg mass is attached to a spring whose constant is 245 N/m,
+it comes to rest in the equilibrium position. Starting at <span
+class="math inline">\(t=0\)</span>, a force equal to <span
+class="math inline">\(f(t)=15e^{-4t}\cos 2t\)</span> is applied to the
+system. In the absence of damping,</p>
+<ol type="a">
+<li><p>Find the position of the mass when <span
+class="math inline">\(t=\pi\)</span>. Round your answer to 4
+decimals.</p></li>
+<li><p>What is the amplitude of vibrations after a very long time? Round
+your answer to 4 decimals.</p></li>
+</ol>
+<div class="answer">
+<details><summary>Show answer</summary>
+<ol type="a">
+<li><p><span class="math inline">\(x(\pi)\approx 0.0460\)</span> m,
+taking the positive direction to be the direction of the applied force
+at <span class="math inline">\(t=0\)</span>.</p></li>
+<li><p><span class="math inline">\(0.0548\)</span> m.</p></li>
+</ol>
+</details>
+</div>
+<h2 id="question-5">Question 5</h2>
+<p>Find the inverse Laplace transform of the following expression.</p>
+<p><span class="math display">\[\frac{s-9}{(s+3)(s^2+4)}\]</span></p>
+<div class="answer">
+<details><summary>Show answer</summary>
+<p><span
+class="math display">\[f(t)=-\frac{23}{26}\sin(2t)+\frac{12}{13}\bigl(\cos(2t)-e^{-3t}\bigr).\]</span></p>
+</details>
+</div>
+<h2 id="question-6">Question 6</h2>
+<p>Let <span class="math inline">\(y(t)\)</span> be the solution to the
+following initial value problem.</p>
+<p><span class="math display">\[y&#39;&#39;+2y=e^{5t},\qquad
+y(0)=9,\quad y&#39;(0)=6\]</span></p>
+<p>Find <span class="math inline">\(Y(s)\)</span>, the Laplace transform
+of <span class="math inline">\(y(t)\)</span>.</p>
+<div class="answer">
+<details><summary>Show answer</summary>
+<p><span
+class="math display">\[Y(s)=\frac{1}{s^2+2}\left(\frac{1}{s-5}+9s+6\right),\qquad
+s&gt;5.\]</span></p>
+</details>
+</div>
+<h2 id="question-7">Question 7</h2>
+<p>Find the inverse Laplace transform of the following expression.</p>
+<p><span class="math display">\[\frac{10s+5}{s^2-6s+45}\]</span></p>
+<div class="answer">
+<details><summary>Show answer</summary>
+<p><span
+class="math display">\[f(t)=e^{3t}\left(10\cos(6t)+\frac{35}{6}\sin(6t)\right).\]</span></p>
+</details>
+</div>
+<h2 id="question-8">Question 8</h2>
+<p>Let <span class="math inline">\(y(t)\)</span> be the solution to the
+following initial value problem.</p>
+<p><span
+class="math display">\[y&#39;&#39;-12y&#39;+35y=t^3e^{6t},\qquad
+y(0)=1,\quad y&#39;(0)=1\]</span></p>
+<p>Find <span class="math inline">\(Y(s)\)</span>, the Laplace transform
+of <span class="math inline">\(y(t)\)</span>.</p>
+<div class="answer">
+<details><summary>Show answer</summary>
+<p><span
+class="math display">\[Y(s)=\frac{s-11+6/(s-6)^4}{(s-7)(s-5)},\qquad
+s&gt;7.\]</span></p>
+</details>
+</div>
+<h2 id="question-9">Question 9</h2>
+<p>A mass attached to a spring, set in a container of molasses (a thick
+liquid) acts like a damped simple harmonic oscillator. The mass is 64
+kg, the spring has a spring constant of 4 N/m and the molasses provides
+a damping force of 32 Ns/m.</p>
+<ol type="a">
+<li>The system is</li>
+</ol>
+<p>(A) underdamped<br />
+(B) overdamped<br />
+(C) critically damped</p>
+<ol start="2" type="a">
+<li>A force of <span class="math inline">\(F(t)=-6e^{-t/4}\)</span> (in
+N) is applied to the mass. If the method of undetermined coefficients is
+used to find a particular solution, which of the following is the best
+choice as a trial solution?</li>
+</ol>
+<p>(A) <span class="math inline">\(At^2e^{-t/4}\)</span><br />
+(B) <span class="math inline">\((At^2+Bt+C)e^{-t/4}\)</span><br />
+(C) <span class="math inline">\((At+B)e^{-t/4}\)</span><br />
+(D) <span class="math inline">\(Ae^{-t/4}\)</span><br />
+(E) <span class="math inline">\(A\sinh(t/4)+B\cosh(t/4)\)</span><br />
+(F) <span class="math inline">\((At^2+Bt)e^{-t/4}\)</span><br />
+(G) <span class="math inline">\(At\sinh(t/4)+Bt\cosh(t/4)\)</span><br />
+(H) <span class="math inline">\(Ate^{-t/4}\)</span></p>
+<ol start="3" type="a">
+<li>Initially, at <span class="math inline">\(t=0\)</span>s, our mass is
+moving at a speed of 4 m/s as it passes through its equilibrium position
+(<span class="math inline">\(x=0\)</span>m). If we are still under the
+force from part (b), at what positive time, in seconds, does it again
+pass through <span class="math inline">\(x=0\)</span>m? (If it never
+does, type dne).</li>
+</ol>
+<div class="answer">
+<details><summary>Show answer</summary>
+<ol type="a">
+<li><p><strong>C.</strong> Critically damped.</p></li>
+<li><p><strong>A.</strong> <span
+class="math inline">\(At^2e^{-t/4}\)</span>.</p></li>
+<li><p>The speed alone does not specify the direction. With initial
+velocity <span class="math inline">\(x&#39;(0)=4\)</span> m/s, the mass
+crosses again at <span class="math inline">\(t=256/3\)</span> s. With
+<span class="math inline">\(x&#39;(0)=-4\)</span> m/s, there is no
+second crossing. In both cases <span
+class="math display">\[x(t)=e^{-t/4}\left(x&#39;(0)t-\frac{3}{64}t^2\right).\]</span></p></li>
+</ol>
+</details>
+</div>
+</body>
+</html>

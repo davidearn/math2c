@@ -26,5 +26,5 @@ clickable answers.
 | 2 | [HTML](assignment2.html) | [PDF](assignment2.pdf) | Thursday, 8 October 2026 at 11:59 p.m. |
 | 3 | [HTML](assignment3.html) | [PDF](assignment3.pdf) | Monday, 26 October 2026 at 11:59 p.m. |
 | 4 | [HTML](assignment4.html) | [PDF](assignment4.pdf) | Thursday, 5 November 2026 at 11:59 p.m. |
-| 5 | — | — | Monday, 23 November 2026 at 11:59 p.m. |
+| 5 | [HTML](assignment5.html) | [PDF](assignment5.pdf) | Monday, 23 November 2026 at 11:59 p.m. |
 | 6 | — | — | Thursday, 10 December 2026 at 11:59 p.m. |
