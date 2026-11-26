@@ -2252,6 +2252,58 @@ Choose all that apply:
 
 </details>
 
+## Poll 23: Applying the Second Shifting Theorem
+
+<details markdown="1">
+<summary>Show question</summary>
+
+Let $g(t)=t\,U(t-3)$, where $U$ is the unit step function. Which function $f(t)$ makes $\mathcal{L}\{g(t)\}=e^{-3s}\mathcal{L}\{f(t)\}$?
+
+Choose one:
+
+1. $t-3$
+2. $t$
+3. $t+3$
+4. $3t$
+
+</details>
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Answer:** Choice 3, $t+3$.
+
+</details>
+
+<details markdown="0">
+<summary>Show results</summary>
+
+<div class="poll-results">
+<p class="poll-result-note">51 students answered this question.</p>
+<div class="poll-result-row">
+<div class="poll-result-label">1. $t-3$</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 25.490%"></div></div>
+<div class="poll-result-value">13 (25.5%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">2. $t$</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 13.725%"></div></div>
+<div class="poll-result-value">7 (13.7%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">3. $t+3$</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 58.824%"></div></div>
+<div class="poll-result-value">30 (58.8%)</div>
+</div>
+<div class="poll-result-row">
+<div class="poll-result-label">4. $3t$</div>
+<div class="poll-result-track" aria-hidden="true"><div class="poll-result-bar" style="width: 1.961%"></div></div>
+<div class="poll-result-value">1 (2.0%)</div>
+</div>
+</div>
+
+</details>
+
 <script>
 window.MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}};
 document.querySelectorAll('details').forEach((item) => {
