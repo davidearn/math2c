@@ -38,4 +38,4 @@ Topics for future lectures are tentative. Slide files appear here when they are 
 | 30 | 20 November | Laplace transforms (continued) | [2cl_laplace_transforms.pdf](2cl_laplace_transforms.pdf) | 2026 Nov 20, 11:14am |
 | 31 | 24 November | Laplace transforms, Part 2 | [2cl_laplace_transforms_part2.pdf](2cl_laplace_transforms_part2.pdf) | 2026 Nov 25, 10:39pm |
 | 32 | 26 November | Laplace transforms, Part 2 (continued) | [2cl_laplace_transforms_part2.pdf](2cl_laplace_transforms_part2.pdf) | 2026 Nov 25, 10:39pm |
-| 33 | 27 November | Practice Test 2 solutions | [2cl_test2_practice_solutions.pdf](2cl_test2_practice_solutions.pdf) | 2026 Nov 26, 10:49pm |
+| 33 | 27 November | Practice Test 2 solutions | [2cl_test2_practice_solutions.pdf](2cl_test2_practice_solutions.pdf) | 2026 Nov 27, 1:34pm |
